@@ -1,6 +1,5 @@
 # Smart Mind Map Generator
 
-![Mind Map Example](images/mindmap-example.png) *Example generated mind map*
 
 An intelligent application that automatically creates structured mind maps from text input using Natural Language Processing (NLP) and graph visualization.
 
